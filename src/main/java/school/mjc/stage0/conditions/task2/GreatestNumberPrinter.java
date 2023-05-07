@@ -6,5 +6,6 @@ public class GreatestNumberPrinter {
             System.out.println(first);
         }else {
             System.out.println(second);
+        }
     }
 }
